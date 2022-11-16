@@ -1,4 +1,4 @@
-#question three.
+#question three. this application determines what range a particular falls into.
 temp_value = float(input("Enter value of temperature in celcius: "))
 if temp_value < -273.15:
   print("The temperature value is invalid because it is below absolute zerosolute zero")         
