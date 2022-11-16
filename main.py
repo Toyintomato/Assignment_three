@@ -1,4 +1,4 @@
-#question four
+#question four- An simple application to detect what grade a student is in.
 credit = int(input("How many credits have you taken? "))
 if credit <= 23:
   print("The student is a fresh man.")
