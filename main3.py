@@ -1,4 +1,4 @@
-#question two
+#question two-  This is a simple application that converts temperature from one unit to the other.
 temp_value = float(input("Enter temperature value: "))
 unit = input("Enter unit of temperature f/c: ").lower()
 if unit == "f":
