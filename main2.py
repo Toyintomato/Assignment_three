@@ -1,5 +1,5 @@
 # Question one
-# this program accepts the length in cm and converts it to inches.ccepts the length in cm and converts it to inches.
+# this is a simple application that accepts the length in cm and converts it to inches.ccepts the length in cm and converts it to inches.
 
 len_cm = float(input("Enter length in cm: "))
 len_inch = round((len_cm / 2.54),3)
